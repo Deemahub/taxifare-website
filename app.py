@@ -96,5 +96,5 @@ st.write(resposne.json())
 st.write(resposne.json())
 
 
-## Finally, we can display the prediction to the user
+## Finally, we can display the prediction to the userr
 '''
